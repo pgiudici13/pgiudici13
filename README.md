@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgiudici13&label=Profile%20views&color=0e75b6&style=flat" alt="pgiudici13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgiudici13" alt="pgiudici13" /></a> </p>
-
 - 🔭 I’m currently working on [Orma](https://github.com/pgiudici13/Orma)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pgiudici13/](https://github.com/pgiudici13/)
